@@ -6,6 +6,8 @@ A feature-rich, cross-platform IPTV player built with Python and PyQt5, featurin
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
+![nex](https://github.com/user-attachments/assets/0a4f3d29-d794-4b31-9a58-1e847712a1ea)
+
 ## ✨ Features
 
 ### 🎬 Core Playback
