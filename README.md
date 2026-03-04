@@ -113,6 +113,7 @@ iptv_app/
 ├── run.py                   # Application entry point
 └── build_exe.bat            # Windows executable builder
 ```
+![sus](https://github.com/user-attachments/assets/95b8326e-6818-4c8a-b340-7af0928ba0fb)
 
 ## 🚀 Installation
 
